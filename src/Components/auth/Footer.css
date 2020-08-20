@@ -1,0 +1,13 @@
+.footer{  
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: black;
+    color: white;
+ }
+ .footer .banquyen {
+     margin-left: 200px;
+ }
+.icon{
+    width: 30px;
+    height: 30px;
+}

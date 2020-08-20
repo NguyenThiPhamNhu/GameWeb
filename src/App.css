@@ -1,0 +1,70 @@
+.app ul li{
+  margin:0;
+  padding:0;
+  text-align:right;
+  display:inline;
+  text-decoration:none;     
+    
+}
+.app ul li:hover{
+  background:red;
+  
+}
+.app ul li{
+  font-size:20px;
+  color: black;
+  padding: 0 15px;
+  border-right:1px solid #C03333;
+  text-decoration:none;    
+}
+
+.app ul{
+  width: 1290px;
+  height: 80px;
+  background-color: black;
+  padding: 10px;
+  margin-right: 100px;
+  text-align: center;       
+}
+
+a{
+  padding: 0 5px;
+  text-decoration:none; 
+  color: white;
+  
+}
+a:hover{
+  background:red;
+  
+}
+
+.Image{
+  width: 450px;
+  height: 250px;
+}
+.Anhapi{
+  width: 450px;
+  height: 250px;
+}
+.Avatar{
+  width: 400px;
+  height: 500px;
+  /* border: 1rem solid; */
+  border-radius: 50%;
+}
+.editbut{
+  background-color: red;
+}
+.showAvatar{
+    display: grid;
+    
+    display:flex;
+}
+/* .Menu{
+  width: 100px;
+  height: 100px;
+  border: 3rem solid;
+} */
+
+
+
